@@ -12,6 +12,7 @@
 | **beacon-bridge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-bridge`](projects/beacon-bridge) |
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
+| **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
 | **helix-pilot** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-pilot`](projects/helix-pilot) |
