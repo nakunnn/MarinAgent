@@ -8,3 +8,4 @@
 |---|---|---|
 | **aegis-shift** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-shift`](projects/aegis-shift) |
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
+| **vector-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/vector-trace`](projects/vector-trace) |
