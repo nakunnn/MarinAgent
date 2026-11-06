@@ -18,6 +18,7 @@
 | **helix-pilot** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-pilot`](projects/helix-pilot) |
 | **helix-trace** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/helix-trace`](projects/helix-trace) |
 | **ignite-sync** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-sync`](projects/ignite-sync) |
+| **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
 | **lumina-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/lumina-shift`](projects/lumina-shift) |
 | **nova-grid** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-grid`](projects/nova-grid) |
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
