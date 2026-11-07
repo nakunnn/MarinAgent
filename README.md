@@ -11,6 +11,7 @@
 | **astra-hub** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/astra-hub`](projects/astra-hub) |
 | **beacon-bridge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-bridge`](projects/beacon-bridge) |
 | **beacon-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-relay`](projects/beacon-relay) |
+| **cortex-engine** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/cortex-engine`](projects/cortex-engine) |
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
