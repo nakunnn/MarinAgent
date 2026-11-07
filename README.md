@@ -28,6 +28,7 @@
 | **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
 | **lumina-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/lumina-shift`](projects/lumina-shift) |
 | **nova-grid** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-grid`](projects/nova-grid) |
+| **pulse-pilot** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-pilot`](projects/pulse-pilot) |
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
