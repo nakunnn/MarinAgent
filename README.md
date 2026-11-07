@@ -35,6 +35,7 @@
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
 | **specter-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/specter-craft`](projects/specter-craft) |
+| **strata-pilot** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/strata-pilot`](projects/strata-pilot) |
 | **vector-pulse** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vector-pulse`](projects/vector-pulse) |
 | **vector-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/vector-trace`](projects/vector-trace) |
 | **vortex-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vortex-gate`](projects/vortex-gate) |
