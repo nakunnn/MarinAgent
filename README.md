@@ -13,6 +13,7 @@
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
+| **echo-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-hub`](projects/echo-hub) |
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
 | **forge-pulse** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/forge-pulse`](projects/forge-pulse) |
