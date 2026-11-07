@@ -36,6 +36,7 @@
 | **orbit-pilot** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/orbit-pilot`](projects/orbit-pilot) |
 | **pulse-pilot** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-pilot`](projects/pulse-pilot) |
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
+| **pulse-trace** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-trace`](projects/pulse-trace) |
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
 | **specter-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/specter-craft`](projects/specter-craft) |
