@@ -20,6 +20,7 @@
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
 | **forge-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/forge-core`](projects/forge-core) |
+| **forge-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/forge-link`](projects/forge-link) |
 | **forge-pulse** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/forge-pulse`](projects/forge-pulse) |
 | **helix-pilot** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-pilot`](projects/helix-pilot) |
 | **helix-spark** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/helix-spark`](projects/helix-spark) |
