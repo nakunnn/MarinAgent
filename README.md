@@ -16,6 +16,7 @@
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
 | **helix-pilot** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-pilot`](projects/helix-pilot) |
+| **helix-spark** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/helix-spark`](projects/helix-spark) |
 | **helix-trace** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/helix-trace`](projects/helix-trace) |
 | **ignite-sync** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-sync`](projects/ignite-sync) |
 | **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
