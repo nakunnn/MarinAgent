@@ -29,6 +29,7 @@
 | **echo-pulse** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/echo-pulse`](projects/echo-pulse) |
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
+| **flux-craft** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/flux-craft`](projects/flux-craft) |
 | **flux-mesh** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-mesh`](projects/flux-mesh) |
 | **forge-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/forge-core`](projects/forge-core) |
 | **forge-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/forge-link`](projects/forge-link) |
