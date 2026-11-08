@@ -12,6 +12,7 @@
 | **astra-hub** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/astra-hub`](projects/astra-hub) |
 | **beacon-bridge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-bridge`](projects/beacon-bridge) |
 | **beacon-craft** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/beacon-craft`](projects/beacon-craft) |
+| **beacon-pilot** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-pilot`](projects/beacon-pilot) |
 | **beacon-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-relay`](projects/beacon-relay) |
 | **beacon-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/beacon-shift`](projects/beacon-shift) |
 | **chronos-grid** | Recursive nested dictionary flattener and key un-nester utility | [`projects/chronos-grid`](projects/chronos-grid) |
