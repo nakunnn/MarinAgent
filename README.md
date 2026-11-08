@@ -20,6 +20,7 @@
 | **cipher-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/cipher-craft`](projects/cipher-craft) |
 | **cortex-engine** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/cortex-engine`](projects/cortex-engine) |
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
+| **dynamo-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-relay`](projects/dynamo-relay) |
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
 | **dynamo-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/dynamo-vault`](projects/dynamo-vault) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
