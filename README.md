@@ -9,6 +9,7 @@
 | **aegis-shift** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-shift`](projects/aegis-shift) |
 | **aegis-trace** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/aegis-trace`](projects/aegis-trace) |
 | **apex-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/apex-cast`](projects/apex-cast) |
+| **apex-engine** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/apex-engine`](projects/apex-engine) |
 | **astra-hub** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/astra-hub`](projects/astra-hub) |
 | **beacon-bridge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-bridge`](projects/beacon-bridge) |
 | **beacon-craft** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/beacon-craft`](projects/beacon-craft) |
