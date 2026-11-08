@@ -44,6 +44,7 @@
 | **pulse-trace** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-trace`](projects/pulse-trace) |
 | **solaris-gate** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/solaris-gate`](projects/solaris-gate) |
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
+| **solaris-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/solaris-node`](projects/solaris-node) |
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
 | **specter-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/specter-craft`](projects/specter-craft) |
 | **strata-gate** | Recursive nested dictionary flattener and key un-nester utility | [`projects/strata-gate`](projects/strata-gate) |
