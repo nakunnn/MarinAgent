@@ -17,6 +17,7 @@
 | **beacon-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-relay`](projects/beacon-relay) |
 | **beacon-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/beacon-shift`](projects/beacon-shift) |
 | **chronos-grid** | Recursive nested dictionary flattener and key un-nester utility | [`projects/chronos-grid`](projects/chronos-grid) |
+| **chronos-sync** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/chronos-sync`](projects/chronos-sync) |
 | **cipher-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/cipher-bridge`](projects/cipher-bridge) |
 | **cipher-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/cipher-craft`](projects/cipher-craft) |
 | **cortex-engine** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/cortex-engine`](projects/cortex-engine) |
