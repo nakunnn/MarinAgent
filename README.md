@@ -39,6 +39,7 @@
 | **lumina-flow** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/lumina-flow`](projects/lumina-flow) |
 | **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
 | **lumina-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/lumina-shift`](projects/lumina-shift) |
+| **nexus-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/nexus-shift`](projects/nexus-shift) |
 | **nova-grid** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-grid`](projects/nova-grid) |
 | **nova-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/nova-wave`](projects/nova-wave) |
 | **orbit-link** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/orbit-link`](projects/orbit-link) |
