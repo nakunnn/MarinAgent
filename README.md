@@ -36,6 +36,7 @@
 | **forge-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/forge-core`](projects/forge-core) |
 | **forge-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/forge-link`](projects/forge-link) |
 | **forge-pulse** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/forge-pulse`](projects/forge-pulse) |
+| **forge-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/forge-wave`](projects/forge-wave) |
 | **helix-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/helix-gate`](projects/helix-gate) |
 | **helix-pilot** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-pilot`](projects/helix-pilot) |
 | **helix-spark** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/helix-spark`](projects/helix-spark) |
