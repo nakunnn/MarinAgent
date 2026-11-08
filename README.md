@@ -45,6 +45,7 @@
 | **lumina-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/lumina-shift`](projects/lumina-shift) |
 | **nexus-scope** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/nexus-scope`](projects/nexus-scope) |
 | **nexus-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/nexus-shift`](projects/nexus-shift) |
+| **nova-gate** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-gate`](projects/nova-gate) |
 | **nova-grid** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-grid`](projects/nova-grid) |
 | **nova-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/nova-wave`](projects/nova-wave) |
 | **orbit-link** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/orbit-link`](projects/orbit-link) |
