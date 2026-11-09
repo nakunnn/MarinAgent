@@ -22,6 +22,7 @@
 | **chronos-sync** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/chronos-sync`](projects/chronos-sync) |
 | **cipher-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/cipher-bridge`](projects/cipher-bridge) |
 | **cipher-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/cipher-craft`](projects/cipher-craft) |
+| **cipher-engine** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/cipher-engine`](projects/cipher-engine) |
 | **cortex-engine** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/cortex-engine`](projects/cortex-engine) |
 | **dynamo-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/dynamo-bridge`](projects/dynamo-bridge) |
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
