@@ -29,6 +29,7 @@
 | **dynamo-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/dynamo-vault`](projects/dynamo-vault) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
 | **echo-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-hub`](projects/echo-hub) |
+| **echo-mesh** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/echo-mesh`](projects/echo-mesh) |
 | **echo-pulse** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/echo-pulse`](projects/echo-pulse) |
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
