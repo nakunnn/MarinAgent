@@ -81,3 +81,4 @@
 | **vector-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/vector-trace`](projects/vector-trace) |
 | **vortex-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vortex-gate`](projects/vortex-gate) |
 | **vortex-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/vortex-node`](projects/vortex-node) |
+| **zenith-sync** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/zenith-sync`](projects/zenith-sync) |
