@@ -82,6 +82,7 @@
 | **strata-pilot** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/strata-pilot`](projects/strata-pilot) |
 | **titan-forge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/titan-forge`](projects/titan-forge) |
 | **vector-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vector-cast`](projects/vector-cast) |
+| **vector-node** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-node`](projects/vector-node) |
 | **vector-pulse** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vector-pulse`](projects/vector-pulse) |
 | **vector-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/vector-trace`](projects/vector-trace) |
 | **vortex-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vortex-gate`](projects/vortex-gate) |
