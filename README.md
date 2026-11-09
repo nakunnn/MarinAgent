@@ -58,6 +58,7 @@
 | **orbit-link** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/orbit-link`](projects/orbit-link) |
 | **orbit-pilot** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/orbit-pilot`](projects/orbit-pilot) |
 | **prism-grid** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/prism-grid`](projects/prism-grid) |
+| **pulse-grid** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-grid`](projects/pulse-grid) |
 | **pulse-node** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/pulse-node`](projects/pulse-node) |
 | **pulse-pilot** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-pilot`](projects/pulse-pilot) |
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
