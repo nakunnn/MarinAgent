@@ -70,6 +70,7 @@
 | **orbit-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/orbit-wave`](projects/orbit-wave) |
 | **prism-grid** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/prism-grid`](projects/prism-grid) |
 | **pulse-grid** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-grid`](projects/pulse-grid) |
+| **pulse-mesh** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-mesh`](projects/pulse-mesh) |
 | **pulse-node** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/pulse-node`](projects/pulse-node) |
 | **pulse-pilot** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-pilot`](projects/pulse-pilot) |
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
