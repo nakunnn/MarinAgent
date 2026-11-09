@@ -39,6 +39,7 @@
 | **forge-pulse** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/forge-pulse`](projects/forge-pulse) |
 | **forge-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/forge-wave`](projects/forge-wave) |
 | **helix-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/helix-gate`](projects/helix-gate) |
+| **helix-link** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/helix-link`](projects/helix-link) |
 | **helix-pilot** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-pilot`](projects/helix-pilot) |
 | **helix-spark** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/helix-spark`](projects/helix-spark) |
 | **helix-stack** | Recursive nested dictionary flattener and key un-nester utility | [`projects/helix-stack`](projects/helix-stack) |
