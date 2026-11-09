@@ -48,6 +48,7 @@
 | **helix-trace** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/helix-trace`](projects/helix-trace) |
 | **hyper-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/hyper-hub`](projects/hyper-hub) |
 | **ignite-sync** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-sync`](projects/ignite-sync) |
+| **ignite-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/ignite-wave`](projects/ignite-wave) |
 | **lumina-core** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/lumina-core`](projects/lumina-core) |
 | **lumina-flow** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/lumina-flow`](projects/lumina-flow) |
 | **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
