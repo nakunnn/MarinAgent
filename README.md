@@ -97,6 +97,7 @@
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
 | **pulse-trace** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-trace`](projects/pulse-trace) |
 | **quantum-flow** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-flow`](projects/quantum-flow) |
+| **quantum-node** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-node`](projects/quantum-node) |
 | **quantum-scope** | Recursive nested dictionary flattener and key un-nester utility | [`projects/quantum-scope`](projects/quantum-scope) |
 | **solaris-gate** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/solaris-gate`](projects/solaris-gate) |
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
