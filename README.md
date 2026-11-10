@@ -51,6 +51,7 @@
 | **forge-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/forge-core`](projects/forge-core) |
 | **forge-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/forge-link`](projects/forge-link) |
 | **forge-mesh** | Recursive nested dictionary flattener and key un-nester utility | [`projects/forge-mesh`](projects/forge-mesh) |
+| **forge-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/forge-node`](projects/forge-node) |
 | **forge-pulse** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/forge-pulse`](projects/forge-pulse) |
 | **forge-spark** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/forge-spark`](projects/forge-spark) |
 | **forge-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/forge-wave`](projects/forge-wave) |
