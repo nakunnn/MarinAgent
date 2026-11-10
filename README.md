@@ -17,6 +17,7 @@
 | **beacon-bridge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-bridge`](projects/beacon-bridge) |
 | **beacon-core** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/beacon-core`](projects/beacon-core) |
 | **beacon-craft** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/beacon-craft`](projects/beacon-craft) |
+| **beacon-gate** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-gate`](projects/beacon-gate) |
 | **beacon-pilot** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-pilot`](projects/beacon-pilot) |
 | **beacon-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-relay`](projects/beacon-relay) |
 | **beacon-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/beacon-shift`](projects/beacon-shift) |
