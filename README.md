@@ -105,6 +105,7 @@
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
 | **specter-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/specter-craft`](projects/specter-craft) |
 | **strata-gate** | Recursive nested dictionary flattener and key un-nester utility | [`projects/strata-gate`](projects/strata-gate) |
+| **strata-node** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/strata-node`](projects/strata-node) |
 | **strata-pilot** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/strata-pilot`](projects/strata-pilot) |
 | **strata-scope** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/strata-scope`](projects/strata-scope) |
 | **titan-forge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/titan-forge`](projects/titan-forge) |
