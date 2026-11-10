@@ -37,6 +37,7 @@
 | **echo-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-hub`](projects/echo-hub) |
 | **echo-mesh** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/echo-mesh`](projects/echo-mesh) |
 | **echo-pulse** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/echo-pulse`](projects/echo-pulse) |
+| **echo-scope** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/echo-scope`](projects/echo-scope) |
 | **echo-spark** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/echo-spark`](projects/echo-spark) |
 | **echo-vault** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-vault`](projects/echo-vault) |
 | **flux-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-cast`](projects/flux-cast) |
