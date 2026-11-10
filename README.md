@@ -18,6 +18,7 @@
 | **beacon-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-relay`](projects/beacon-relay) |
 | **beacon-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/beacon-shift`](projects/beacon-shift) |
 | **beacon-trace** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-trace`](projects/beacon-trace) |
+| **chronos-bridge** | Recursive nested dictionary flattener and key un-nester utility | [`projects/chronos-bridge`](projects/chronos-bridge) |
 | **chronos-forge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/chronos-forge`](projects/chronos-forge) |
 | **chronos-grid** | Recursive nested dictionary flattener and key un-nester utility | [`projects/chronos-grid`](projects/chronos-grid) |
 | **chronos-stack** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/chronos-stack`](projects/chronos-stack) |
