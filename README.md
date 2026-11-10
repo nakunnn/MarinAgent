@@ -7,6 +7,7 @@
 | Project | Description | Path |
 |---|---|---|
 | **aegis-shift** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-shift`](projects/aegis-shift) |
+| **aegis-spark** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-spark`](projects/aegis-spark) |
 | **aegis-stack** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-stack`](projects/aegis-stack) |
 | **aegis-trace** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/aegis-trace`](projects/aegis-trace) |
 | **apex-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/apex-cast`](projects/apex-cast) |
