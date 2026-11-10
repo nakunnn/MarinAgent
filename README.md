@@ -20,6 +20,7 @@
 | **beacon-trace** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-trace`](projects/beacon-trace) |
 | **chronos-forge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/chronos-forge`](projects/chronos-forge) |
 | **chronos-grid** | Recursive nested dictionary flattener and key un-nester utility | [`projects/chronos-grid`](projects/chronos-grid) |
+| **chronos-stack** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/chronos-stack`](projects/chronos-stack) |
 | **chronos-sync** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/chronos-sync`](projects/chronos-sync) |
 | **cipher-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/cipher-bridge`](projects/cipher-bridge) |
 | **cipher-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/cipher-craft`](projects/cipher-craft) |
