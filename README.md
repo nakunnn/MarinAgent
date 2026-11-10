@@ -96,6 +96,7 @@
 | **strata-pilot** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/strata-pilot`](projects/strata-pilot) |
 | **strata-scope** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/strata-scope`](projects/strata-scope) |
 | **titan-forge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/titan-forge`](projects/titan-forge) |
+| **titan-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/titan-trace`](projects/titan-trace) |
 | **vector-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vector-cast`](projects/vector-cast) |
 | **vector-node** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-node`](projects/vector-node) |
 | **vector-pulse** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vector-pulse`](projects/vector-pulse) |
