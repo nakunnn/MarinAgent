@@ -102,6 +102,7 @@
 | **quantum-flow** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-flow`](projects/quantum-flow) |
 | **quantum-node** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-node`](projects/quantum-node) |
 | **quantum-scope** | Recursive nested dictionary flattener and key un-nester utility | [`projects/quantum-scope`](projects/quantum-scope) |
+| **quantum-stack** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/quantum-stack`](projects/quantum-stack) |
 | **solaris-gate** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/solaris-gate`](projects/solaris-gate) |
 | **solaris-grid** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-grid`](projects/solaris-grid) |
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
