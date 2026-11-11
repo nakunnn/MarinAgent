@@ -78,6 +78,7 @@
 | **ignite-sync** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-sync`](projects/ignite-sync) |
 | **ignite-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/ignite-wave`](projects/ignite-wave) |
 | **lumina-core** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/lumina-core`](projects/lumina-core) |
+| **lumina-craft** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/lumina-craft`](projects/lumina-craft) |
 | **lumina-flow** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/lumina-flow`](projects/lumina-flow) |
 | **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
 | **lumina-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/lumina-shift`](projects/lumina-shift) |
