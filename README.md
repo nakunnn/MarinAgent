@@ -86,6 +86,7 @@
 | **lumina-flow** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/lumina-flow`](projects/lumina-flow) |
 | **lumina-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/lumina-hub`](projects/lumina-hub) |
 | **lumina-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/lumina-shift`](projects/lumina-shift) |
+| **lumina-trace** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/lumina-trace`](projects/lumina-trace) |
 | **nexus-link** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nexus-link`](projects/nexus-link) |
 | **nexus-node** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/nexus-node`](projects/nexus-node) |
 | **nexus-scope** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/nexus-scope`](projects/nexus-scope) |
