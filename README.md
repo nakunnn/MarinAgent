@@ -124,6 +124,7 @@
 | **strata-scope** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/strata-scope`](projects/strata-scope) |
 | **strata-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/strata-trace`](projects/strata-trace) |
 | **titan-forge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/titan-forge`](projects/titan-forge) |
+| **titan-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/titan-shift`](projects/titan-shift) |
 | **titan-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/titan-trace`](projects/titan-trace) |
 | **vector-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vector-cast`](projects/vector-cast) |
 | **vector-grid** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-grid`](projects/vector-grid) |
