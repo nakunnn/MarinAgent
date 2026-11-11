@@ -43,6 +43,7 @@
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
 | **dynamo-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/dynamo-vault`](projects/dynamo-vault) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
+| **echo-cast** | Recursive nested dictionary flattener and key un-nester utility | [`projects/echo-cast`](projects/echo-cast) |
 | **echo-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/echo-hub`](projects/echo-hub) |
 | **echo-mesh** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/echo-mesh`](projects/echo-mesh) |
 | **echo-pulse** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/echo-pulse`](projects/echo-pulse) |
