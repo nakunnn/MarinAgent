@@ -103,6 +103,7 @@
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
 | **pulse-trace** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-trace`](projects/pulse-trace) |
 | **quantum-flow** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-flow`](projects/quantum-flow) |
+| **quantum-forge** | Recursive nested dictionary flattener and key un-nester utility | [`projects/quantum-forge`](projects/quantum-forge) |
 | **quantum-node** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-node`](projects/quantum-node) |
 | **quantum-scope** | Recursive nested dictionary flattener and key un-nester utility | [`projects/quantum-scope`](projects/quantum-scope) |
 | **quantum-stack** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/quantum-stack`](projects/quantum-stack) |
