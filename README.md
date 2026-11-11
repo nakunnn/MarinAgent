@@ -138,6 +138,7 @@
 | **vortex-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vortex-gate`](projects/vortex-gate) |
 | **vortex-hub** | Recursive nested dictionary flattener and key un-nester utility | [`projects/vortex-hub`](projects/vortex-hub) |
 | **vortex-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/vortex-node`](projects/vortex-node) |
+| **vortex-pulse** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vortex-pulse`](projects/vortex-pulse) |
 | **vortex-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/vortex-shift`](projects/vortex-shift) |
 | **zenith-forge** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/zenith-forge`](projects/zenith-forge) |
 | **zenith-sync** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/zenith-sync`](projects/zenith-sync) |
