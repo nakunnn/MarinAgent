@@ -6,6 +6,7 @@
 
 | Project | Description | Path |
 |---|---|---|
+| **aegis-bridge** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/aegis-bridge`](projects/aegis-bridge) |
 | **aegis-grid** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-grid`](projects/aegis-grid) |
 | **aegis-scope** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/aegis-scope`](projects/aegis-scope) |
 | **aegis-shift** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-shift`](projects/aegis-shift) |
