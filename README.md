@@ -121,6 +121,7 @@
 | **titan-forge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/titan-forge`](projects/titan-forge) |
 | **titan-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/titan-trace`](projects/titan-trace) |
 | **vector-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vector-cast`](projects/vector-cast) |
+| **vector-grid** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-grid`](projects/vector-grid) |
 | **vector-node** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-node`](projects/vector-node) |
 | **vector-pulse** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vector-pulse`](projects/vector-pulse) |
 | **vector-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/vector-trace`](projects/vector-trace) |
