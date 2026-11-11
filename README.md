@@ -78,6 +78,7 @@
 | **hyper-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/hyper-vault`](projects/hyper-vault) |
 | **ignite-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/ignite-mesh`](projects/ignite-mesh) |
 | **ignite-node** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-node`](projects/ignite-node) |
+| **ignite-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/ignite-shift`](projects/ignite-shift) |
 | **ignite-sync** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-sync`](projects/ignite-sync) |
 | **ignite-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/ignite-wave`](projects/ignite-wave) |
 | **lumina-core** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/lumina-core`](projects/lumina-core) |
