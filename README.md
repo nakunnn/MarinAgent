@@ -69,6 +69,7 @@
 | **hyper-gate** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/hyper-gate`](projects/hyper-gate) |
 | **hyper-hub** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/hyper-hub`](projects/hyper-hub) |
 | **hyper-pilot** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/hyper-pilot`](projects/hyper-pilot) |
+| **hyper-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/hyper-vault`](projects/hyper-vault) |
 | **ignite-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/ignite-mesh`](projects/ignite-mesh) |
 | **ignite-node** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-node`](projects/ignite-node) |
 | **ignite-sync** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/ignite-sync`](projects/ignite-sync) |
