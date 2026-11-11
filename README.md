@@ -7,6 +7,7 @@
 | Project | Description | Path |
 |---|---|---|
 | **aegis-grid** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-grid`](projects/aegis-grid) |
+| **aegis-scope** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/aegis-scope`](projects/aegis-scope) |
 | **aegis-shift** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-shift`](projects/aegis-shift) |
 | **aegis-spark** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-spark`](projects/aegis-spark) |
 | **aegis-stack** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/aegis-stack`](projects/aegis-stack) |
