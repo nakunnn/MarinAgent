@@ -130,6 +130,7 @@
 | **vector-pulse** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vector-pulse`](projects/vector-pulse) |
 | **vector-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/vector-trace`](projects/vector-trace) |
 | **vortex-gate** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/vortex-gate`](projects/vortex-gate) |
+| **vortex-hub** | Recursive nested dictionary flattener and key un-nester utility | [`projects/vortex-hub`](projects/vortex-hub) |
 | **vortex-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/vortex-node`](projects/vortex-node) |
 | **vortex-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/vortex-shift`](projects/vortex-shift) |
 | **zenith-forge** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/zenith-forge`](projects/zenith-forge) |
