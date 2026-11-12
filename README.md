@@ -110,6 +110,7 @@
 | **pulse-pilot** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-pilot`](projects/pulse-pilot) |
 | **pulse-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-shift`](projects/pulse-shift) |
 | **pulse-trace** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/pulse-trace`](projects/pulse-trace) |
+| **quantum-bridge** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-bridge`](projects/quantum-bridge) |
 | **quantum-flow** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-flow`](projects/quantum-flow) |
 | **quantum-forge** | Recursive nested dictionary flattener and key un-nester utility | [`projects/quantum-forge`](projects/quantum-forge) |
 | **quantum-node** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/quantum-node`](projects/quantum-node) |
