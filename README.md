@@ -130,6 +130,7 @@
 | **specter-bridge** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-bridge`](projects/specter-bridge) |
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
 | **specter-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/specter-craft`](projects/specter-craft) |
+| **specter-scope** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/specter-scope`](projects/specter-scope) |
 | **specter-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-shift`](projects/specter-shift) |
 | **strata-gate** | Recursive nested dictionary flattener and key un-nester utility | [`projects/strata-gate`](projects/strata-gate) |
 | **strata-node** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/strata-node`](projects/strata-node) |
