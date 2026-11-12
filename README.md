@@ -43,6 +43,7 @@
 | **dynamo-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-relay`](projects/dynamo-relay) |
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
 | **dynamo-sync** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/dynamo-sync`](projects/dynamo-sync) |
+| **dynamo-trace** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/dynamo-trace`](projects/dynamo-trace) |
 | **dynamo-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/dynamo-vault`](projects/dynamo-vault) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
 | **echo-cast** | Recursive nested dictionary flattener and key un-nester utility | [`projects/echo-cast`](projects/echo-cast) |
