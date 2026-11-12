@@ -151,6 +151,7 @@
 | **titan-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/titan-shift`](projects/titan-shift) |
 | **titan-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/titan-trace`](projects/titan-trace) |
 | **vector-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vector-cast`](projects/vector-cast) |
+| **vector-forge** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/vector-forge`](projects/vector-forge) |
 | **vector-grid** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-grid`](projects/vector-grid) |
 | **vector-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/vector-link`](projects/vector-link) |
 | **vector-node** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/vector-node`](projects/vector-node) |
