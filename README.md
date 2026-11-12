@@ -121,6 +121,7 @@
 | **solaris-grid** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-grid`](projects/solaris-grid) |
 | **solaris-mesh** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/solaris-mesh`](projects/solaris-mesh) |
 | **solaris-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/solaris-node`](projects/solaris-node) |
+| **solaris-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/solaris-shift`](projects/solaris-shift) |
 | **solaris-trace** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/solaris-trace`](projects/solaris-trace) |
 | **specter-bridge** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-bridge`](projects/specter-bridge) |
 | **specter-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/specter-core`](projects/specter-core) |
