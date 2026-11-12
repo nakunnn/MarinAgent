@@ -90,6 +90,7 @@
 | **lumina-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/lumina-vault`](projects/lumina-vault) |
 | **nexus-link** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nexus-link`](projects/nexus-link) |
 | **nexus-node** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/nexus-node`](projects/nexus-node) |
+| **nexus-pilot** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/nexus-pilot`](projects/nexus-pilot) |
 | **nexus-scope** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/nexus-scope`](projects/nexus-scope) |
 | **nexus-shift** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/nexus-shift`](projects/nexus-shift) |
 | **nexus-spark** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/nexus-spark`](projects/nexus-spark) |
