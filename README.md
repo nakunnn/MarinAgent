@@ -156,6 +156,7 @@
 | **vortex-node** | Recursive nested dictionary flattener and key un-nester utility | [`projects/vortex-node`](projects/vortex-node) |
 | **vortex-pulse** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vortex-pulse`](projects/vortex-pulse) |
 | **vortex-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/vortex-shift`](projects/vortex-shift) |
+| **vortex-wave** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/vortex-wave`](projects/vortex-wave) |
 | **zenith-bridge** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/zenith-bridge`](projects/zenith-bridge) |
 | **zenith-forge** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/zenith-forge`](projects/zenith-forge) |
 | **zenith-pilot** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/zenith-pilot`](projects/zenith-pilot) |
