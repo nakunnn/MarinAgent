@@ -145,4 +145,5 @@
 | **vortex-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/vortex-shift`](projects/vortex-shift) |
 | **zenith-bridge** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/zenith-bridge`](projects/zenith-bridge) |
 | **zenith-forge** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/zenith-forge`](projects/zenith-forge) |
+| **zenith-pilot** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/zenith-pilot`](projects/zenith-pilot) |
 | **zenith-sync** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/zenith-sync`](projects/zenith-sync) |
