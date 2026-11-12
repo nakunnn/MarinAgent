@@ -16,6 +16,7 @@
 | **apex-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/apex-cast`](projects/apex-cast) |
 | **apex-engine** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/apex-engine`](projects/apex-engine) |
 | **apex-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/apex-link`](projects/apex-link) |
+| **astra-core** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/astra-core`](projects/astra-core) |
 | **astra-hub** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/astra-hub`](projects/astra-hub) |
 | **astra-shift** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/astra-shift`](projects/astra-shift) |
 | **beacon-bridge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-bridge`](projects/beacon-bridge) |
