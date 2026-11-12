@@ -25,6 +25,7 @@
 | **beacon-pilot** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-pilot`](projects/beacon-pilot) |
 | **beacon-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-relay`](projects/beacon-relay) |
 | **beacon-shift** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/beacon-shift`](projects/beacon-shift) |
+| **beacon-spark** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/beacon-spark`](projects/beacon-spark) |
 | **beacon-trace** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/beacon-trace`](projects/beacon-trace) |
 | **chronos-bridge** | Recursive nested dictionary flattener and key un-nester utility | [`projects/chronos-bridge`](projects/chronos-bridge) |
 | **chronos-forge** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/chronos-forge`](projects/chronos-forge) |
