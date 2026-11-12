@@ -36,6 +36,7 @@
 | **cipher-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/cipher-bridge`](projects/cipher-bridge) |
 | **cipher-craft** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/cipher-craft`](projects/cipher-craft) |
 | **cipher-engine** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/cipher-engine`](projects/cipher-engine) |
+| **cipher-spark** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/cipher-spark`](projects/cipher-spark) |
 | **cipher-trace** | Recursive nested dictionary flattener and key un-nester utility | [`projects/cipher-trace`](projects/cipher-trace) |
 | **cortex-engine** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/cortex-engine`](projects/cortex-engine) |
 | **dynamo-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/dynamo-bridge`](projects/dynamo-bridge) |
