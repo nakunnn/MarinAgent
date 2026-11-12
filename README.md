@@ -128,6 +128,7 @@
 | **strata-gate** | Recursive nested dictionary flattener and key un-nester utility | [`projects/strata-gate`](projects/strata-gate) |
 | **strata-node** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/strata-node`](projects/strata-node) |
 | **strata-pilot** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/strata-pilot`](projects/strata-pilot) |
+| **strata-relay** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/strata-relay`](projects/strata-relay) |
 | **strata-scope** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/strata-scope`](projects/strata-scope) |
 | **strata-shift** | Lightweight memory-efficient CSV to JSON parser & converter | [`projects/strata-shift`](projects/strata-shift) |
 | **strata-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/strata-trace`](projects/strata-trace) |
