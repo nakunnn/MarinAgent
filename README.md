@@ -97,6 +97,7 @@
 | **nova-forge** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/nova-forge`](projects/nova-forge) |
 | **nova-gate** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-gate`](projects/nova-gate) |
 | **nova-grid** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/nova-grid`](projects/nova-grid) |
+| **nova-mesh** | Recursive nested dictionary flattener and key un-nester utility | [`projects/nova-mesh`](projects/nova-mesh) |
 | **nova-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/nova-wave`](projects/nova-wave) |
 | **orbit-link** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/orbit-link`](projects/orbit-link) |
 | **orbit-pilot** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/orbit-pilot`](projects/orbit-pilot) |
