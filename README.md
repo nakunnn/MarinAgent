@@ -42,6 +42,7 @@
 | **dynamo-flow** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/dynamo-flow`](projects/dynamo-flow) |
 | **dynamo-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-relay`](projects/dynamo-relay) |
 | **dynamo-stack** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-stack`](projects/dynamo-stack) |
+| **dynamo-sync** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/dynamo-sync`](projects/dynamo-sync) |
 | **dynamo-vault** | Recursive nested dictionary flattener and key un-nester utility | [`projects/dynamo-vault`](projects/dynamo-vault) |
 | **dynamo-wave** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/dynamo-wave`](projects/dynamo-wave) |
 | **echo-cast** | Recursive nested dictionary flattener and key un-nester utility | [`projects/echo-cast`](projects/echo-cast) |
