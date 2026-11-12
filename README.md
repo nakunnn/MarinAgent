@@ -40,6 +40,7 @@
 | **cipher-spark** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/cipher-spark`](projects/cipher-spark) |
 | **cipher-trace** | Recursive nested dictionary flattener and key un-nester utility | [`projects/cipher-trace`](projects/cipher-trace) |
 | **cortex-engine** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/cortex-engine`](projects/cortex-engine) |
+| **cortex-forge** | RFC 3986 URL query string parser, sanitizer, and serializer | [`projects/cortex-forge`](projects/cortex-forge) |
 | **dynamo-bridge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/dynamo-bridge`](projects/dynamo-bridge) |
 | **dynamo-cast** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/dynamo-cast`](projects/dynamo-cast) |
 | **dynamo-flow** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/dynamo-flow`](projects/dynamo-flow) |
