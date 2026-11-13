@@ -119,6 +119,7 @@
 | **orbit-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/orbit-wave`](projects/orbit-wave) |
 | **prism-grid** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/prism-grid`](projects/prism-grid) |
 | **prism-relay** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/prism-relay`](projects/prism-relay) |
+| **prism-scope** | Recursive nested dictionary flattener and key un-nester utility | [`projects/prism-scope`](projects/prism-scope) |
 | **pulse-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/pulse-core`](projects/pulse-core) |
 | **pulse-grid** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-grid`](projects/pulse-grid) |
 | **pulse-link** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/pulse-link`](projects/pulse-link) |
