@@ -63,6 +63,7 @@
 | **flux-mesh** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-mesh`](projects/flux-mesh) |
 | **flux-node** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/flux-node`](projects/flux-node) |
 | **flux-relay** | High-throughput SHA-256 and MD5 block-hash checksum verifier | [`projects/flux-relay`](projects/flux-relay) |
+| **flux-stack** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/flux-stack`](projects/flux-stack) |
 | **forge-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/forge-core`](projects/forge-core) |
 | **forge-forge** | Recursive nested dictionary flattener and key un-nester utility | [`projects/forge-forge`](projects/forge-forge) |
 | **forge-link** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/forge-link`](projects/forge-link) |
