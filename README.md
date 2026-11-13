@@ -115,6 +115,7 @@
 | **orbit-pilot** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/orbit-pilot`](projects/orbit-pilot) |
 | **orbit-wave** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/orbit-wave`](projects/orbit-wave) |
 | **prism-grid** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/prism-grid`](projects/prism-grid) |
+| **prism-relay** | Cryptographically secure password & passphrase generator with Shannon entropy analyzer | [`projects/prism-relay`](projects/prism-relay) |
 | **pulse-core** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/pulse-core`](projects/pulse-core) |
 | **pulse-grid** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-grid`](projects/pulse-grid) |
 | **pulse-mesh** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/pulse-mesh`](projects/pulse-mesh) |
