@@ -156,6 +156,7 @@
 | **strata-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/strata-trace`](projects/strata-trace) |
 | **titan-forge** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/titan-forge`](projects/titan-forge) |
 | **titan-shift** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/titan-shift`](projects/titan-shift) |
+| **titan-sync** | Optimized Sieve of Eratosthenes prime numbers generator | [`projects/titan-sync`](projects/titan-sync) |
 | **titan-trace** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/titan-trace`](projects/titan-trace) |
 | **vector-cast** | Terminal ASCII and Markdown auto-aligned table renderer | [`projects/vector-cast`](projects/vector-cast) |
 | **vector-forge** | Thread-safe Token Bucket rate limiter implementation in standard Python | [`projects/vector-forge`](projects/vector-forge) |
